@@ -15,7 +15,7 @@ namespace HomeTownZooProject.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "HomeTown Zoo! test";
+            ViewBag.Message = "HomeTown Zoo!";
 
             return View();
         }
